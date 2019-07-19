@@ -1,0 +1,26 @@
+{
+  "name": "pura",
+  "version": "1.0.0",
+  "description": "A Bible App",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WesAspinall/pura.git"
+  },
+  "author": "Wes Aspinall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WesAspinall/pura/issues"
+  },
+  "homepage": "https://github.com/WesAspinall/pura#readme"
+}
